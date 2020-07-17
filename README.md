@@ -91,8 +91,18 @@ For the other Keybinding you should open the file xmonad.hs located in ~/.xmonad
 
 My Xmonad Setup
 
-The Desktop : -- 
-    
-    ![Plain desktop](https://user-images.githubusercontent.com/68412503/87772496-73d42800-c83f-11ea-8294-80d41a2dd8c4.jpg)
-    
+The Desktop
 
+   ![Plain desktop](https://user-images.githubusercontent.com/68412503/87772496-73d42800-c83f-11ea-8294-80d41a2dd8c4.jpg)
+
+My Musical Workflow
+    
+   ![WORKFLOW](https://user-images.githubusercontent.com/68412503/87772662-ac740180-c83f-11ea-8634-4967c518a1a2.jpg)
+
+Doom Vim Main Interface
+
+   ![Doom Vim Main Interface](https://user-images.githubusercontent.com/68412503/87772808-d9281900-c83f-11ea-865c-54c1e96fda7f.jpg)
+   
+Doom-Vim in Action
+
+   ![Doom Vim in action](https://user-images.githubusercontent.com/68412503/87772911-fd83f580-c83f-11ea-9b1c-4a200645fce0.jpg)
