@@ -88,5 +88,5 @@ Change Focus - mod+Up,Down (Or) Left,Right
 
 For the other Keybinding you should open the file xmonad.hs located in ~/.xmonad and find it yourself
 
-:wq
-
+The Desktop : -- 
+![plain desktop](https://user-images.githubusercontent.com/68412503/87768588-ffe35100-c839-11ea-9c9a-16214f59dba9.jpg)
