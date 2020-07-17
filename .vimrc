@@ -1,17 +1,22 @@
 
                                   
                            
-"         (_)                     
-"   __   __ _ _ __ ___  _ __ ___   
-"   \ \/ /| | '_ ` _ \| '__/ __|  
-"  _ \  / | | | | | | | | | (__   
-" (_) \/  |_|_| |_| |_|_|  \___|  
-                                  
+"     ______ _____  ________  ___            
+"     |  _  \  _  ||  _  |  \/  |            
+"     | | | | | | || | | | .  . |          
+"     | | | | | | || | | | |\/| |         
+"     | |/ /\ \_/ /\ \_/ / |  | |          
+"     |___/  \___/  \___/\_|  |_/
+"               V.I.M             
+"
+"     Made a Doom Version for vim
+" Because a Doom Version for emacs Exist
 
 
 " Specify a directory for plugins
+
 " - For Neovim: ~/.local/share/nvim/plugged
-" - Avoid using standard Vim directory names like 'plugin'
+
 if empty(glob('~/.vim/autoload/plug.vim'))
   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
@@ -64,6 +69,7 @@ Plug 'airblade/vim-gitgutter'
 "autocmd StdinReadPre * let s:std_in=1
 "autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
+" =================== KEYMAPPING =======================
 map <C-n> :NERDTreeToggle<CR>
 
 map <C-f> :Goyo<CR>
