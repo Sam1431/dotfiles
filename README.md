@@ -42,7 +42,7 @@ Before placing the files in your home directory install the following porgram ne
 10) Rofi :
         Appmenu
         
-======= PREFERRED APPLICATION =========
+======== PREFERRED APPLICATION ==========
          ( TERMINAL APPS )
  
 1) Ranger :
@@ -55,7 +55,7 @@ Before placing the files in your home directory install the following porgram ne
         you can use it as minimal replacement for rofi
 5) Vim-editor on terminal
         
-=======My Xmonad Basic Keybinding =========
+=======My Xmonad Basic Keybinding =======
 
 mod+s or mod :
     rofi -show drun
@@ -74,7 +74,7 @@ mod+shift+r :
     
 the default layout is BSP
  
-Positioning Key Bindings : 
+======== Positioning Key Bindings ======== 
     
 Outer windows - mod+ctrl+Up,Down,Left,Right keys
     
