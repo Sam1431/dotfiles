@@ -106,3 +106,10 @@ Doom Vim Main Interface
 Doom-Vim in Action
 
    ![Doom Vim in action](https://user-images.githubusercontent.com/68412503/87772911-fd83f580-c83f-11ea-9b1c-4a200645fce0.jpg)
+
+
+
+
+
+For your vim to work like shown in the picture
+you must understand how vim works and tweak the .vimrc as I have some plugins and settings disabled
