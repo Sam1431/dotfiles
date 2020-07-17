@@ -1,3 +1,9 @@
+!! 
+!! This file is forked from DISTRO TUBE'S .Xresources
+!!               according to my needs
+!!
+!!
+
 Xft.dpi: 96
 Xft.antialias: true
 Xft.hinting: true
@@ -5,15 +11,6 @@ Xft.rgba: rgb
 Xft.autohint: true
 Xft.hintstyle: hintfull
 Xft.lcdfilter: lcdfilter
-
-! Every shell is a login shell by default (for inclusion of all necessary environment variables)
-XTerm*loginshell: true
-
-! I like a LOT of scrollback...
-XTerm*savelines: 16384
-
-! double-click to select whole URLs :D
-XTerm*charClass: 33:48,36-47:48,58-59:48,61:48,63-64:48,95:48,126:48
 
 URxvt*imLocale: en_US.UTF-8
 URxvt*termName: rxvt-unicode-256color
