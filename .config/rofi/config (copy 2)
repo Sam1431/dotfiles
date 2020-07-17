@@ -1,0 +1,28 @@
+! ------------------------------------------------------------------------------
+! ROFI Color theme
+! ------------------------------------------------------------------------------
+rofi.color-enabled: true
+#		   			Window	  	  Border	 	 Separator
+rofi.color-window: argb:e6282a36, argb:aabbc5ff, argb:00000000
+
+#		  			 Background	  Foreground	 Alt Background Highlight Bg   Highlight Fg
+rofi.color-normal: argb:00435e75, argb:b3ffffff, argb:00486883, argb:aabbc5ff, argb:aa000000
+rofi.color-active: argb:00435e75, argb:ffd8dee9, argb:00486883, argb:aa1e88e5, argb:aa000000
+rofi.color-urgent: argb:00435e75, argb:ffd8dee9, argb:00486883, argb:aa1e88e5, argb:aa000000
+
+rofi.display-drun: Search 
+rofi.display
+rofi.lines:10
+rofi.line-padding:7
+rofi.padding:30
+rofi.font: Hack 10
+rofi.hide-scrollbar: true
+rofi.bw: 2
+rofi.width:60
+rofi.columns:3
+rofi.show-icons: falses
+rofi.icon-theme: Papirus
+rofi.fullscreen: false
+rofi.drun-display-format: {name}
+ff9e9e9e
+
