@@ -62,7 +62,7 @@ Plug 'rhysd/open-pdf.vim'
 "Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
 "GitGutter
-Plug 'airblade/vim-gitgutter'
+"Plug 'airblade/vim-gitgutter'
 
 "autocmd vimenter * Goyo
 
