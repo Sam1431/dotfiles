@@ -8,4 +8,7 @@ fi
 
 alias sync="xrdb -merge ~/.Xresources"
 ufetch
-alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
+
+#
+# A SUPER SUPER MINIMAL .mkshrc
+#
