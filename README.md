@@ -21,55 +21,55 @@ The Terminal used is Rxvt-Unicode.The font needed for it work are
 
 Before placing the files in your home directory install the following porgram needed/ depencies for the files to work
 
-1) Xmonad :-
+1) Xmonad :
         The Window Manager I use   
 2) Xmonad-contrib :-
         The dependencies needed for "My xmonad config" to work
-3) rxvt-unicode :-
+3) rxvt-unicode :
         The terminal I prefer
-4) MirBSD Korn Shell :-
+4) MirBSD Korn Shell :
         The shell I Prefer
-5) Urxvt-resize-font-git :-
+5) Urxvt-resize-font-git :
         Needed for the resizing in the terminal to work
-6) Vim :-
+6) Vim :
         The editor I use
-7) Polybar :- 
+7) Polybar :
         Needed for xmonad as a bar to show workspaces,window names,sysinfo, systray
-8) nm-applet && volume-icon  :- 
+8) nm-applet && volume-icon  :
         Volume-icon is optional,but nm-applet is needed if you want to connect to the internet
-9) KsuperKey :-
+9) KsuperKey :
         To trick the system into thinking the Super+s is Super
-10) Rofi :- 
+10) Rofi :
         Appmenu
         
 ======= PREFERRED APPLICATION =========
          ( TERMINAL APPS )
  
-1) Ranger :- 
+1) Ranger :
         A terminal emulator
-2) Neomutt :- 
+2) Neomutt :
         Command line mail reader
-3) Moc :- 
+3) Moc :
         Terminal music player ( Music On console )
-4) Dmenu :- 
+4) Dmenu :
         you can use it as minimal replacement for rofi
 5) Vim-editor on terminal
         
 =======My Xmonad Basic Keybinding =========
 
-mod+s or mod
+mod+s or mod :
     rofi -show drun
 
-mod+e
+mod+e :
     rofi -show window ( a menu showing running windows all windows )
 
-mod+shift+return
+mod+shift+return :
     urxvt
 
-mod+return
+mod+return :
     DOOM-VIM
 
-mod+shift+r
+mod+shift+r :
     Restart xmonad
     
 ===========================================
