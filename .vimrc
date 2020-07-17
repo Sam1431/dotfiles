@@ -44,22 +44,22 @@ Plug 'junegunn/limelight.vim'
 Plug 'rhysd/open-pdf.vim'
 
 "Nord theme
-Plug 'arcticicestudio/nord-vim'
+"Plug 'arcticicestudio/nord-vim'
 
 "Arduino for vim
-Plug 'stevearc/vim-arduino'
+"Plug 'stevearc/vim-arduino'
 
 "Dracula theme for Vim
-Plug 'dracula/vim', { 'as': 'dracula' }
+"Plug 'dracula/vim', { 'as': 'dracula' }
 
 "Start Menu for Vim
-Plug 'mhinz/vim-startify'
+"Plug 'mhinz/vim-startify'
 
 "Bottom Line
-Plug 'itchyny/lightline.vim'
+"Plug 'itchyny/lightline.vim'
 
 "Fuzzy File
-Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+"Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 
 "GitGutter
 Plug 'airblade/vim-gitgutter'
@@ -70,11 +70,11 @@ Plug 'airblade/vim-gitgutter'
 "autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 " =================== KEYMAPPING =======================
-map <C-n> :NERDTreeToggle<CR>
+"map <C-n> :NERDTreeToggle<CR>
 
-map <C-f> :Goyo<CR>
+"map <C-f> :Goyo<CR>
 
-map <C-c> :ArduinoChooseBoard<CR>
+"map <C-c> :ArduinoChooseBoard<CR>
 
 map <C-m> :set number<CR>
 
@@ -126,21 +126,21 @@ call plug#end()
 
 "SET COMMANDS
 
-set t_Co=256 
-set laststatus=2
-set cursorline
+"set t_Co=256 
+"set laststatus=2
+"set cursorline
 syntax enable
 set mouse=a
 set noshowmode
-colorscheme dracula
+"colorscheme dracula
 
 
-if !has('gui_running')
-  set t_Co=256
-endif
+"if !has('gui_running')
+"  set t_Co=256
+"endif
 
-let g:lightline = {
-      \ 'colorscheme': 'wombat',
-      \ }
-hi Normal          ctermfg=252 ctermbg=none
+"let g:lightline = {
+"      \ 'colorscheme': 'wombat',
+"      \ }
+"hi Normal          ctermfg=252 ctermbg=none
 
