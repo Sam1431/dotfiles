@@ -72,7 +72,21 @@ mod+return :
 mod+shift+r :
     Restart xmonad
     
+the default layout is BSP
+ 
+Positioning Key Bindings : 
+    
+Outer windows - mod+ctrl+Up,Down,Left,Right keys
+    
+Inner windows - mod+alt+ctrl+Up,Down,Left,Right keys
+    
+swapping windows - mod+shift+Up,Down
+    
+Change Focus - mod+Up,Down (Or) Left,Right
+    
 ===========================================
+
+For the other Keybinding you should open the file xmonad.hs located in ~/.xmonad and find it yourself
 
 :wq
 
