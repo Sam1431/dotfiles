@@ -16,8 +16,8 @@ The Terminal used is Rxvt-Unicode.The font needed for it work are
 1) Hack
 2) Inconsolata Nerd Font
 
-> The editor is Vim with a little bling
-> The shell used is MirBSD Korn Shell
+ [The editor is Vim with a little bling]
+ [The shell used is MirBSD Korn Shell]
 
 Before placing the files in your home directory install the following porgram needed/ depencies for the files to work
 
