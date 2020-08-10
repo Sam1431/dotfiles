@@ -1,0 +1,48 @@
+
+! special colors
+*background:   #000000
+*foreground:   #addadb
+*cursorColor:  #addadb
+
+*color0:      #121821
+*color8:      #8d9a9f
+
+*color1:      #318BAC
+*color9:      #318BAC
+
+*color2:      #5B98AF
+*color10:     #5B98AF
+
+*color3:      #6C99AF
+*color11:     #6C99AF
+
+*color4:      #56A6C7
+*color12:     #56A6C7
+
+*color5:      #75B3C9
+*color13:     #75B3C9
+
+*color6:      #8ABACE
+*color14:     #8ABACE
+
+*color7:      #cadce4
+*color15:     #cadce4
+
+URxvt*scrollBar:         false
+URxvt*scrollBar_right:   false
+
+URxvt.internalBorder:  25
+URxvt.externalBorder:  25
+
+URxvt*transparent:       false
+
+URxvt*depth: 32
+URxvt.background: [80]#000000
+
+URxvt.font: xft:xos4 Terminus:size=12, \
+            xft:Inconsolata Nerd Font Mono:size=12, 
+            xft:Monospace:style=Medium:size=12   
+URxvt.letterSpace: 0
+
+*antialias:  true
+*autohint:   true
